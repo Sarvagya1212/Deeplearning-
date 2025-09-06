@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files and folders
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python virtual environment
+*.egg-info/
+*.eggs/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.tar.gz
+*.whl
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Large files / data
+data/
+datasets/
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.model
+*.pb
+*.tflite
+*.onnx
+
+# TensorBoard log files
+logs/
+events.out.tfevents.*
+
+# Cache files
+.cache/
+*.cache
+*.pkl
+*.pickle
+*.joblib
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# Downloads folder (optional)
+downloads/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
+Thumbs.db
